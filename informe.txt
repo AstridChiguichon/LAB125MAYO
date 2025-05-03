@@ -1,0 +1,17 @@
+Parte B: Uso Obligatorio de Inteligencia Artificial
+Instrucción Especial
+
+Preguntas que hice a la IA:
+- ¿Cómo leo un archivo de texto línea por línea en C++?
+- ¿Cómo separar una cadena en palabras?
+- ¿Cómo comparar frases ignorando mayúsculas y minúsculas?
+
+Código generado con ayuda de IA:
+- Función para leer el archivo y separarlo en pregunta|respuesta.
+- Función para convertir texto a minúsculas.
+- Algoritmo para buscar palabras clave.
+
+Lo que aprendí:
+- Que es útil convertir todo a minúsculas para comparar cadenas.
+- Cómo usar map y vector para organizar la información.
+- Que una IA puede darte ideas claras si sabes preguntar bien.
